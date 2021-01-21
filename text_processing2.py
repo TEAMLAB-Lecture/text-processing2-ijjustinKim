@@ -80,5 +80,5 @@ def to_camel_case(underscore_str):
           i += 1
     else:
       camelcase_str = underscore_str
-
+    i  += 3
     return camelcase_str
